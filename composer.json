@@ -1,0 +1,12 @@
+{
+    "name": "twilio/varthak.io",
+    "require": {
+        "twilio/sdk": "^6.33",
+        "phpoffice/phpspreadsheet": "^1.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "Twilio\\VarthakIo\\": "src/"
+        }
+    }
+}

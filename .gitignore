@@ -1,0 +1,7 @@
+application/logs
+nbproject
+system
+vendor
+uploads
+application/config/database.php
+application/libraries
