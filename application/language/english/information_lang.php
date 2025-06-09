@@ -1,0 +1,107 @@
+<?php
+$lang['Home'] = 'Home';
+$lang['Sport'] = 'Sport';
+$lang['Economy'] = 'Economy';
+$lang['Politician'] = 'Politician';
+$lang['Year'] = 'Year';
+
+$lang['Login'] = 'Login';
+$lang['Sign_Up'] = 'Sign Up';
+$lang['Sign_In'] = 'Sign In';
+$lang['My_Pole'] = 'My Pole';
+$lang['Privacy_Policy'] = 'Privacy Policy';
+$lang['Sitemap'] = 'Sitemap';
+$lang['Usage_Agreement'] = 'Usage Agreement';
+
+$lang['lebel_Email'] = 'Email';
+$lang['lebel_Password'] = 'Password';
+$lang['lebel_Confirm_Password'] = 'Confirm Password';
+$lang['lebel_VOTES'] = 'VOTES';
+$lang['lebel_BURNING_VOTES'] = 'BURNING VOTES';
+$lang['lebel_Select_a_Category'] = 'Select a Category';
+$lang['lebel_Category'] = 'Category';
+$lang['lebel_Set_Options'] = 'Set Options';
+$lang['lebel_Forgot_Password'] = 'Forgot Password';
+$lang['lebel_Name'] = 'Name';
+$lang['lebel_VOTING_LINK'] = 'VOTING LINK';
+$lang['lebel_Share'] = 'Share';
+$lang['lebel_TOTAL_VOTES'] = 'TOTAL VOTES';
+$lang['lebel_Male'] = 'Male';
+$lang['lebel_Female'] = 'Female';
+$lang['lebel_UPDATE_RESULTS'] = 'UPDATE RESULTS';
+$lang['lebel_Results'] = 'Results';
+$lang['lebel_Result_of_voters'] = 'Result of voters';
+$lang['lebel_Type_of_voters'] = 'Type of voters';
+$lang['lebel_Success'] = 'Success';
+$lang['lebel_Options_Level'] = 'Options Level';
+$lang['lebel_Option_Vs_Votes'] = 'Option Vs Votes';
+$lang['lebel_Option'] = 'Option';
+$lang['lebel_Error'] = 'Error';
+$lang['lebel_WEB_LINK'] = 'WEB LINK';
+$lang['lebel_POLES'] = 'POLES';
+$lang['lebel_Phone'] = 'Phone';
+$lang['lebel_Location'] = 'Location';
+$lang['lebel_comments'] = 'comments';
+$lang['lebel_My_Poll'] = 'My Poll';
+$lang['lebel_Edit_Profile'] = 'Edit Profile';
+$lang['lebel_Logout'] = 'Logout';
+$lang['lebel_Add_Poll'] = 'Add Poll';
+$lang['lebel_Poll_Listing'] = 'Poll Listing';
+$lang['lebel_QUESTIONS'] = 'QUESTIONS';
+$lang['lebel_DATE'] = 'DATE';
+$lang['lebel_TOTAL_POLL'] = 'TOTAL POLL';
+$lang['lebel_Add_A_Poll'] = 'Add A Poll';
+$lang['lebel_new_password'] = 'new password';
+$lang['lebel_Profile_Picture'] = 'Profile Picture';
+$lang['lebel_Address'] = 'Address';
+$lang['lebel_Facebook_profile_link'] = 'Facebook profile link';
+$lang['lebel_Twitter_profile_link'] = 'Twitter profile link';
+$lang['lebel_Linkedin_profile_link'] = 'Linkedin profile link';
+$lang['lebel_Instagram_profile_link'] = 'Instagram profile link';
+$lang['lebel_About_us'] = 'About us';
+
+
+$lang['placeholder_Type_your_question_here'] = 'Type your question here';
+$lang['placeholder_Option'] = 'Option';
+$lang['placeholder_Enter_Email'] = 'Enter Email';
+$lang['placeholder_Enter_Password'] = 'Enter Password';
+$lang['placeholder_Enter_Name'] = 'Enter Name';
+$lang['placeholder_Re_enter_Password'] = 'Re-enter Password';
+$lang['placeholder_Write_your_comment'] = 'Write your comment';
+
+$lang['button_ADD_A_NEW_OPTION'] = 'ADD A NEW OPTION';
+$lang['button_POST_YOUR_VOTE'] = 'POST YOUR VOTE';
+$lang['button_Sign_In'] = 'Sign In';
+$lang['button_Forgot_Password'] = 'Forgot Password';
+$lang['button_Sign_Up'] = 'Sign Up';
+$lang['button_Sign_Up'] = 'Don\'t have an account?';
+$lang['button_Submit'] = 'Submit';
+$lang['button_Like'] = 'Like';
+$lang['button_Credits'] = 'Credits';
+$lang['button_Likes'] = 'Likes';
+$lang['button_POST_COMMENT'] = 'POST COMMENT';
+$lang['button_Update_Profile'] = 'Update Profile';
+
+
+$lang['msg_All_Rights_Reserved'] = 'Copyright. All Rights Reserved.';
+$lang['msg_START_YOUR_VOTING'] = 'START YOUR VOTING';
+$lang['msg_Put_the_question_you_want_to_vote_onwhich_you_can_share'] = 'Put the question you want to vote on, which you can share with others via social media.';
+$lang['msg_I_accept_all_the'] = 'I accept all the';
+$lang['msg_Terms_Conditions'] = 'Terms & Conditions';
+$lang['msg_Already_have_an_account?'] = 'Already have an account?';
+$lang['msg_Success_your_vote_published_successfully'] = 'Success!your vote published successfully!';
+$lang['msg_Pole_published_successfully'] = 'Your Vote Has Been Recorded.';
+$lang['msg_You_already_submit_your_vote'] = 'You have already voted!';
+$lang['msg_Your_IP_blocked_Please_contact_to_admin'] = 'Your IP blocked, Please contact to admin!';
+$lang['msg_Support_team_will_very_your_account_after_that_youre_in'] = 'Support team will very your account after that you\'re in!';
+$lang['msg_Kindly_check_your_email_inbox_and_reset_your_password'] = 'Kindly check your email inbox and reset your password!';
+$lang['msg_email_not_exist'] = 'email not exist';
+$lang['msg_Your_password_changed'] = 'Your password changed.';
+$lang['msg_Profile_update_successfully'] = 'Profile update successfully!';
+$lang['msg_email_id_already_exist'] = 'email id already exist';
+$lang['msg_comment_published_successfully'] = 'comment published successfully!';
+$lang['msg_You_already_post_comment'] = 'You already post comment!';
+$lang['msg_Comment_is_required'] = 'Comment is required!';
+$lang['msg_Thanks_for_your_like!'] = 'Thanks for your like!';
+$lang['msg_You_already_like_profile'] = 'You already like profile!';
+?>
