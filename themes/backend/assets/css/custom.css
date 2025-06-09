@@ -1,0 +1,144 @@
+
+#showCategoryPopup nav > .nav.nav-tabs{
+
+    border: none;
+    color:#fff;
+    background:#272e38;
+    border-radius:0;
+
+}
+#showCategoryPopup nav > div a.nav-item.nav-link.active{
+    background:#e74c3c;
+}
+#showCategoryPopup nav > div a.nav-item.nav-link{
+    border: none;
+    /*padding: 18px 25px;*/
+    color:#fff;
+    background:#272e38;
+    border-radius:0;
+}
+
+/*#showCategoryPopup nav > div a.nav-item.nav-link.active:after
+{
+    content: "";
+    position: relative;
+    bottom: -60px;
+    left: -10%;
+    border: 15px solid transparent;
+    border-top-color: #e74c3c ;
+}*/
+#showCategoryPopup .tab-content{
+    background: #fdfdfd;
+    line-height: 25px;
+    /*border: 1px solid #ddd;*/
+    border-top:5px solid #e74c3c;
+    /*    border-bottom:5px solid #e74c3c;*/
+    padding:30px 25px;
+}
+
+#showCategoryPopup nav > div a.nav-item.nav-link:hover,
+#showCategoryPopup nav > div a.nav-item.nav-link:focus
+{
+    border: none;
+    background: #e74c3c;
+    color:#fff;
+    border-radius:0;
+    transition:background 0.20s linear;
+}
+
+.tree, .tree ul {
+    margin:0;
+    padding:0;
+    list-style:none
+}
+.tree ul {
+    margin-left:1em;
+    position:relative
+}
+.tree ul ul {
+    margin-left:.5em
+}
+.tree ul:before {
+    content:"";
+    display:block;
+    width:0;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    border-left:1px solid
+}
+.tree li {
+    margin:0;
+    padding:0 1em;
+    line-height:2em;
+    color:#369;
+    font-weight:700;
+    position:relative
+}
+.tree ul li:before {
+    content:"";
+    display:block;
+    width:10px;
+    height:0;
+    border-top:1px solid;
+    margin-top:-1px;
+    position:absolute;
+    top:1em;
+    left:0
+}
+.tree ul li:last-child:before {
+    background:#fff;
+    height:auto;
+    top:1em;
+    bottom:0
+}
+.indicator {
+    margin-right:5px;
+}
+.tree li a {
+    text-decoration: none;
+    color:#369;
+}
+.tree li button, .tree li button:active, .tree li button:focus {
+    text-decoration: none;
+    color:#369;
+    border:none;
+    background:transparent;
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+    outline: 0;
+}
+.help-block{
+    color: #ef1f1f;
+    font-weight: 600;
+}
+
+.edit-info .nav-link.tab-navlink{
+    font-weight: 600;
+    color: black;
+}
+.edit-info .nav-link.tab-navlink.active{
+    background: #00e5fc;
+    font-weight: 600;
+    color: black;
+}
+.userportal_logo{
+    max-width: 60%;
+    margin-right: 60px;
+    height: auto;
+}
+#myVideo {
+      background-image: url(../../../frontend/images/Steps_to_avail_10_discount_1_vwzwkx_c_scale,w_669.png);
+                          
+    background-repeat:   no-repeat;
+    background-position: center center;
+  }
+@media only screen and (max-width: 767px){
+.userportal_logo {
+    margin-right: 0px;
+}
+#myVideo {
+      background-image: url(../../../frontend/images/Steps_to_avail_10_discount_1_vwzwkx_c_scale,w_320.png);
+  }
+}
